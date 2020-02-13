@@ -1,0 +1,24 @@
+{
+  "name": "mavenai-task",
+  "version": "1.0.0",
+  "description": "a technical task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaHuPro/Mavenai-Task.git"
+  },
+  "keywords": [
+    "task",
+    "mavenai",
+    "node"
+  ],
+  "author": "ZaHuPro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaHuPro/Mavenai-Task/issues"
+  },
+  "homepage": "https://github.com/ZaHuPro/Mavenai-Task#readme"
+}
